@@ -1,7 +1,6 @@
-# SauceDemo Playwright Test Suite
+# SwagDemo Playwright Test Suite
 
-Automated Playwright coverage for the SauceDemo checkout flow, aligned to the requested happy path, negative validation, consistency, and optional robustness scenarios.
-
+Automated Playwright coverage for the SwagDemo checkout flow, aligned to the requested happy path, negative validation, consistency, and optional robustness scenarios.
 ## Scope covered
 
 - successful order placement with one product
@@ -11,7 +10,7 @@ Automated Playwright coverage for the SauceDemo checkout flow, aligned to the re
 - order summary validation for item, price, tax, and total
 - order completion confirmation
 - optional remove-from-cart and logout/session checks
-- authentication coverage for the accepted SauceDemo usernames
+- authentication coverage for the accepted SwagDemo usernames
 
 ## Test scenarios included
 
