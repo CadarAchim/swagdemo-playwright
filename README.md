@@ -62,31 +62,6 @@ Password for all users:
 - TypeScript
 - Node.js
 
-## Project structure
-
-```text
-.
-├── pages
-│   ├── CartPage.ts
-│   ├── CheckoutCompletePage.ts
-│   ├── CheckoutOverviewPage.ts
-│   ├── CheckoutPage.ts
-│   ├── InventoryPage.ts
-│   └── LoginPage.ts
-├── tests
-│   ├── authentication.spec.ts
-│   ├── checkout-validation.spec.ts
-│   └── order-placement.spec.ts
-├── utils
-│   ├── helpers.ts
-│   ├── selectors.ts
-│   └── testData.ts
-├── playwright.config.ts
-├── package.json
-├── tsconfig.json
-└── README.md
-```
-
 ## Setup
 
 ```bash
